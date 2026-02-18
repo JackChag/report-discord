@@ -5,7 +5,7 @@
 
 ## Библиотеки
 Требуется скачать dotenv и discord.py
-```python
+```
 pip install discord.py
 pip install dotenv-python
 ```
